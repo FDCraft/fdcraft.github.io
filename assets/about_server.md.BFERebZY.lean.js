@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as e,a4 as a}from"./chunks/framework.CurmPdRK.js";const p=JSON.parse('{"title":"联动服务器","description":"","frontmatter":{},"headers":[],"relativePath":"about/server.md","filePath":"about/server.md"}'),d={name:"about/server.md"},o=a("",13),l=[o];function s(c,n,h,i,b,u){return e(),r("div",null,l)}const _=t(d,[["render",s]]);export{p as __pageData,_ as default};

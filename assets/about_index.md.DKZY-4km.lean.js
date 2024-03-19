@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as d,a4 as r}from"./chunks/framework.CurmPdRK.js";const u=JSON.parse('{"title":"FDCraft","description":"","frontmatter":{},"headers":[],"relativePath":"about/index.md","filePath":"about/index.md"}'),e={name:"about/index.md"},h=r("",19),i=[h];function n(o,c,l,s,f,p){return d(),a("div",null,i)}const m=t(e,[["render",n]]);export{u as __pageData,m as default};

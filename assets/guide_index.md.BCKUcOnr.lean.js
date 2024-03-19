@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a4 as r}from"./chunks/framework.CurmPdRK.js";const u=JSON.parse('{"title":"新人指南","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","filePath":"guide/index.md"}'),o={name:"guide/index.md"},i=r("",14),l=[i];function n(c,p,s,h,d,_){return a(),t("div",null,l)}const f=e(o,[["render",n]]);export{u as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as r,c as a,o as t,a4 as l}from"./chunks/framework.CurmPdRK.js";const u=JSON.parse('{"title":"复读公约","description":"","frontmatter":{},"headers":[],"relativePath":"guide/rules.md","filePath":"guide/rules.md"}'),o={name:"guide/rules.md"},e=l("",22),i=[e];function n(s,h,c,d,p,g){return t(),a("div",null,i)}const _=r(o,[["render",n]]);export{u as __pageData,_ as default};
