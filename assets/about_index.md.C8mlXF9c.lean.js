@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as d,a3 as r}from"./chunks/framework.YHjwC3fH.js";const u=JSON.parse('{"title":"FDCraft","description":"","frontmatter":{},"headers":[],"relativePath":"about/index.md","filePath":"about/index.md"}'),e={name:"about/index.md"},i=r("",19),n=[i];function h(o,c,l,s,f,b){return d(),a("div",null,n)}const m=t(e,[["render",h]]);export{u as __pageData,m as default};

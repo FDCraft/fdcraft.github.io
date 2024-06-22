@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as a,a3 as e}from"./chunks/framework.YHjwC3fH.js";const p=JSON.parse('{"title":"Bot帮助","description":"","frontmatter":{},"headers":[],"relativePath":"guide/bot.md","filePath":"guide/bot.md"}'),r={name:"guide/bot.md"},o=e("",21),h=[o];function n(i,l,b,c,s,u){return a(),d("div",null,h)}const f=t(r,[["render",n]]);export{p as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,a3 as a}from"./chunks/framework.YHjwC3fH.js";const p=JSON.parse('{"title":"联动服务器","description":"","frontmatter":{},"headers":[],"relativePath":"about/server.md","filePath":"about/server.md"}'),d={name:"about/server.md"},o=a("",13),l=[o];function s(n,c,h,i,b,u){return r(),e("div",null,l)}const _=t(d,[["render",s]]);export{p as __pageData,_ as default};
