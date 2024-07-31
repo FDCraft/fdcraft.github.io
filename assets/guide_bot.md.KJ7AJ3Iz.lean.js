@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as a,a4 as r}from"./chunks/framework.C_ZTJaak.js";const f=JSON.parse('{"title":"Bot帮助","description":"","frontmatter":{},"headers":[],"relativePath":"guide/bot.md","filePath":"guide/bot.md"}'),e={name:"guide/bot.md"},o=r("",19),h=[o];function i(l,n,b,c,s,u){return a(),d("div",null,h)}const p=t(e,[["render",i]]);export{f as __pageData,p as default};

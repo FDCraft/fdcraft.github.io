@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,a4 as l}from"./chunks/framework.C_ZTJaak.js";const p=JSON.parse('{"title":"旦星 SPS","description":"","frontmatter":{},"headers":[],"relativePath":"guide/sps.md","filePath":"guide/sps.md"}'),r={name:"guide/sps.md"},a=l("",28),i=[a];function n(s,g,c,o,y,x){return d(),e("div",null,i)}const h=t(r,[["render",n]]);export{p as __pageData,h as default};
