@@ -1,0 +1,1 @@
+import{_ as t,c as a,ag as r,o}from"./chunks/framework.-a8jReyC.js";const m=JSON.parse('{"title":"新人指南","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","filePath":"guide/index.md"}'),i={name:"guide/index.md"};function l(n,e,p,c,s,d){return o(),a("div",null,e[0]||(e[0]=[r("",14)]))}const u=t(i,[["render",l]]);export{m as __pageData,u as default};

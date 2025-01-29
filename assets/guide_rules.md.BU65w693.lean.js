@@ -1,0 +1,1 @@
+import{_ as l,c as i,ag as r,o}from"./chunks/framework.-a8jReyC.js";const u=JSON.parse('{"title":"复读公约","description":"","frontmatter":{},"headers":[],"relativePath":"guide/rules.md","filePath":"guide/rules.md"}'),t={name:"guide/rules.md"};function e(n,a,s,h,d,g){return o(),i("div",null,a[0]||(a[0]=[r("",24)]))}const p=l(t,[["render",e]]);export{u as __pageData,p as default};

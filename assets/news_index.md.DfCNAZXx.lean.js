@@ -1,0 +1,1 @@
+import{_ as t,c,ag as a,o as l}from"./chunks/framework.-a8jReyC.js";const h=JSON.parse('{"title":"动态","description":"","frontmatter":{},"headers":[],"relativePath":"news/index.md","filePath":"news/index.md"}'),p={name:"news/index.md"};function o(e,s,i,m,d,r){return l(),c("div",null,s[0]||(s[0]=[a("",12)]))}const u=t(p,[["render",o]]);export{h as __pageData,u as default};
