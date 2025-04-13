@@ -1,0 +1,1 @@
+import{_ as d,c as a,o as r,ag as e}from"./chunks/framework.DPDPlp3K.js";const u=JSON.parse('{"title":"Bot帮助","description":"","frontmatter":{},"headers":[],"relativePath":"guide/bot.md","filePath":"guide/bot.md"}'),o={name:"guide/bot.md"};function h(i,t,l,n,b,c){return r(),a("div",null,t[0]||(t[0]=[e("",19)]))}const m=d(o,[["render",h]]);export{u as __pageData,m as default};
