@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as e,ag as t}from"./chunks/framework.DPDPlp3K.js";const d=JSON.parse('{"title":"基岩社","description":"","frontmatter":{},"headers":[],"relativePath":"about/club.md","filePath":"about/club.md"}'),r={name:"about/club.md"};function n(o,a,c,p,h,u){return e(),l("div",null,a[0]||(a[0]=[t("",24)]))}const s=i(r,[["render",n]]);export{d as __pageData,s as default};

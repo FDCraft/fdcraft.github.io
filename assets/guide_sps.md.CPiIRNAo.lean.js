@@ -1,0 +1,1 @@
+import{_ as e,c as d,o as l,ag as r}from"./chunks/framework.DPDPlp3K.js";const x=JSON.parse('{"title":"旦星 SPS","description":"","frontmatter":{},"headers":[],"relativePath":"guide/sps.md","filePath":"guide/sps.md"}'),a={name:"guide/sps.md"};function i(n,t,s,g,c,o){return l(),d("div",null,t[0]||(t[0]=[r("",28)]))}const m=e(a,[["render",i]]);export{x as __pageData,m as default};
